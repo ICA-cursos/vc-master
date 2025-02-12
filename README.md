@@ -14,14 +14,14 @@
 
 ### Disciplinas
   
-- [FVC - Fundamentos de Visão Computacional](https://github.com/ICA-cursos/vc-master/blob/master/FVC/fundamentos-visao-computacional.md)
+- [FVC - Fundamentos de Visão Computacional](https://github.com/ICA-cursos/vc-master/blob/master/FVC/)
 - [TTCI - Técnicas Tradicionais de Classificação de Imagens](https://github.com/ICA-cursos/vc-master/blob/master/TTCI/)
-- [PDI - Processamento Digital de Imagens](https://github.com/ICA-cursos/vc-master/blob/master/PDI/processamento-digital-imagens.md)
-- [EII - Extração de Informação de Imagens](https://github.com/ICA-cursos/vc-master/blob/master/EII/extracao-informacao-imagens.md)
-- [TMCI - Técnicas Modernas de Classificação de Imagens](https://github.com/ICA-cursos/vc-master/blob/master/TMCI/tecnicas-modernas-classificacao-imagens.md)
-- [DOIV - Detecção de Objetos em Imagens e Vídeo](https://github.com/ICA-cursos/vc-master/blob/master/DOIV/detec%C3%A7%C3%A3o-objetos-imagens-videos.md)
-- [ACSI - Análise do Conteúdo Semântico das Imagens](https://github.com/ICA-cursos/vc-master/blob/master/ACSI/analise-conteudo-semantico-imagens.md)
-- [SI - Síntese de Imagens](https://github.com/ICA-cursos/vc-master/blob/master/SI/sintese-imagens.md)
+- [PDI - Processamento Digital de Imagens](https://github.com/ICA-cursos/vc-master/blob/master/PDI/)
+- [EII - Extração de Informação de Imagens](https://github.com/ICA-cursos/vc-master/blob/master/EII/)
+- [TMCI - Técnicas Modernas de Classificação de Imagens](https://github.com/ICA-cursos/vc-master/blob/master/TMCI/)
+- [DOIV - Detecção de Objetos em Imagens e Vídeo](https://github.com/ICA-cursos/vc-master/blob/master/DOIV/)
+- [ACSI - Análise do Conteúdo Semântico das Imagens](https://github.com/ICA-cursos/vc-master/blob/master/ACSI/)
+- [SI - Síntese de Imagens](https://github.com/ICA-cursos/vc-master/blob/master/SI/)
 
 
 ##### Todos os códigos aqui disponíveis foram desenvolvidos e disponibilizados pela equipe de professores do VC MASTER.
