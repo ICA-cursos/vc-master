@@ -1,0 +1,5 @@
+# Python 3.9.6
+dash==2.16.1
+gunicorn==21.2.0
+psutil==5.8.0
+requests==2.31.0
