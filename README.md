@@ -15,7 +15,7 @@
 ### Disciplinas
   
 - [FVC - Fundamentos de Visão Computacional](https://github.com/ICA-cursos/vc-master/blob/master/FVC/fundamentos-visao-computacional.md)
-- [TTCI - Técnicas Tradicionais de Classificação de Imagens](https://github.com/ICA-cursos/vc-master/blob/master/TTCI/tecnicas-tradicionais-classificacao-imagens.md)
+- [TTCI - Técnicas Tradicionais de Classificação de Imagens](https://github.com/ICA-cursos/vc-master/blob/master/TTCI/)
 - [PDI - Processamento Digital de Imagens](https://github.com/ICA-cursos/vc-master/blob/master/PDI/processamento-digital-imagens.md)
 - [EII - Extração de Informação de Imagens](https://github.com/ICA-cursos/vc-master/blob/master/EII/extracao-informacao-imagens.md)
 - [TMCI - Técnicas Modernas de Classificação de Imagens](https://github.com/ICA-cursos/vc-master/blob/master/TMCI/tecnicas-modernas-classificacao-imagens.md)
